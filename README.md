@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" width="100%" alt="X GAARA DEV — Banner" />
+  <img src="assets/banner-blue.gif" width="100%" alt="X GAARA DEV — Banner" />
 </div>
 
 <div align="center">
@@ -21,12 +21,12 @@
 
 </div>
 
-<img src="assets/divider.gif" width="100%" alt="divider" />
+<img src="assets/divider-blue.gif" width="100%" alt="divider" />
 
 <!-- ================= ABOUT ME ================= -->
-<img src="assets/header-about.png" width="100%" alt="About Me" />
+<img src="assets/header-about-blue.png" width="100%" alt="About Me" />
 
-<img align="right" width="270" src="assets/profile.jpg" alt="Sayuru Senevirathne — X Gaara Dev" />
+<img align="right" width="270" src="assets/profile-blue.jpg" alt="Sayuru Senevirathne — X Gaara Dev" />
 
 Hi, I'm **Sayuru Senevirathne**, known across the web as **X Gaara Dev** (`xgaaradev`) — a passionate **Full Stack Developer** & **Automation Engineer** from Sri Lanka.
 
@@ -41,13 +41,13 @@ Feel free to connect or explore my open-source work: **[@xgaaradev](https://gith
 
 <!-- ================= TERMINAL MOCKUP ================= -->
 <div align="center">
-  <img src="assets/terminal.gif" width="100%" alt="Terminal whoami animation" />
+  <img src="assets/terminal-blue.gif" width="100%" alt="Terminal whoami animation" />
 </div>
 
-<img src="assets/divider.gif" width="100%" alt="divider" />
+<img src="assets/divider-blue.gif" width="100%" alt="divider" />
 
 <!-- ================= TECH STACK ================= -->
-<img src="assets/header-stack.png" width="100%" alt="Tech Stack" />
+<img src="assets/header-stack-blue.png" width="100%" alt="Tech Stack" />
 
 <div align="center">
 <p align="center">
@@ -76,10 +76,10 @@ Feel free to connect or explore my open-source work: **[@xgaaradev](https://gith
 </p>
 </div>
 
-<img src="assets/divider.gif" width="100%" alt="divider" />
+<img src="assets/divider-blue.gif" width="100%" alt="divider" />
 
 <!-- ================= GITHUB STATS ================= -->
-<img src="assets/header-stats.png" width="100%" alt="GitHub Stats" />
+<img src="assets/header-stats-blue.png" width="100%" alt="GitHub Stats" />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xgaaradev&theme=github_dark" alt="GitHub stats" />
